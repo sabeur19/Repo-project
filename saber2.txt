@@ -1,0 +1,13 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 742A-847D
+
+ R‚pertoire de C:\Users\saber\Desktop\my project
+
+30/01/2021  10:06    <DIR>          .
+30/01/2021  10:06    <DIR>          ..
+30/01/2021  10:06               427 saber.txt
+30/01/2021  10:06               475 saber1.txt
+30/01/2021  10:06                 0 saber2.txt
+30/01/2021  09:56               380 tester.txt
+               4 fichier(s)            1ÿ282 octets
+               2 R‚p(s)  91ÿ068ÿ997ÿ632 octets libres
